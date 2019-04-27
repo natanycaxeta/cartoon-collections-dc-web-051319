@@ -14,8 +14,9 @@ def summon_captain_planet(array)
   nu_array
 end
 
-def long_planeteer_calls(word)
-  word.any? do |word|
+def long_planeteer_calls(array)
+  array.any? do |word|
+    
 end
 
 def find_the_cheese# code an argument here
