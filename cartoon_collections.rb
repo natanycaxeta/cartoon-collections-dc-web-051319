@@ -4,7 +4,7 @@ def roll_call_dwarves(dwarves)
 end
 end
 def summon_captain_planet(planeteer_calls)
-planeteer_calls.join("!") do |x|
+planeteer_calls.join("!")
   
   
 end
